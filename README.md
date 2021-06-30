@@ -12,7 +12,7 @@
 
 **Personal**
 
-<p>There is nothing much to say about me. <br>I am always interested in new project, participating in active ones and improving my own knowledge throughout.</p>
+<p>There is nothing much to say about me. <br>I am always interested in new projects, participating in active ones and improving my own knowledge throughout.</p>
 
 **Links**
 
