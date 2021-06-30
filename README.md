@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3 align="center" style="font-size: 13px">
+  Improve and Enhance
+</h3>
+<h4 align="center" style="font-size: 15px">
+  Future is on its way
+</h4>
+<h5 align="center" style="font-size: 15px">
+  Progress is inevitable
+</h5>
 
-<!--
-**Machigatta/Machigatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+**Personal**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>There is nothing much to say about me. <br>I am always interested in new project, participating in active ones and improving my own knowledge throughout.</p>
+
+**Links**
+
+- :desktop_computer: <a href="https://twitter.com/MachigattaDE">Twitter</a>
+- :keyboard: <a href="https://machigatta.com/">Website</a>
+
+![](https://komarev.com/ghpvc/?username=Machigatta&label=Profile+views&style=flat-square)
